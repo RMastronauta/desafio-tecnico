@@ -59,10 +59,10 @@ O arquivo `appsettings.json` contém as principais configurações do projeto. E
 
 Abra o terminal na raiz do projeto e execute:
 `dotnet restore`
-### 2. Atualizar Banco de Dados
+### 2. Gerar Banco de Dados
 
 Se estiver usando Entity Framework, execute:
-`dotnet ef database update --project DesafioTecnicoUnicont.Data`
+`dotnet ef database update --startup-project DesafioTecnicoUnicont.Api`
 
 ### 3. Executar a API
 `dotnet run --project DesafioTecnicoUnicont.Api`

@@ -8,7 +8,6 @@ Projeto desenvolvido em .NET 8 para processamento e gestão de notas fiscais ele
 - [Requisitos](#requisitos)
 - [Configuração do appsettings.json](#configuração-do-appsettingsjson)
 - [Como Executar](#como-executar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Observações](#observações)
 
 ---
